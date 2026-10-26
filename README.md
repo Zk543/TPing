@@ -12,8 +12,8 @@
 
 | 文件 | 用途 | 平台 |
 |---|---|---|
-| `局域网投屏接收端 Setup 2.0.0.exe`https://github.com/Zk543/TPing/releases/download/v2.0.0/Setup.2.0.0.exe| 装在**电脑**上，负责接收 | Windows x64 |
-| `app-release.apk` https://github.com/Zk543/TPing/releases/download/v2.0.0/TPing-.-v2.0.0.apk| 装在**手机**上，负责发送 | Android 8.0+ |
+| `局域网投屏接收端 Setup 2.0.0.exe`<br>https://github.com/Zk543/TPing/releases/download/v2.0.0/Setup.2.0.0.exe| 装在**电脑**上，负责接收 | Windows x64 |
+| `app-release.apk` <br>https://github.com/Zk543/TPing/releases/download/v2.0.0/TPing-.-v2.0.0.apk| 装在**手机**上，负责发送 | Android 8.0+ |
 
 ---
 
